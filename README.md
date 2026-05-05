@@ -28,13 +28,14 @@ A análise focou em três pilares fundamentais para a estratégia da companhia:
 ## Como Executar
 
 O projeto foi desenvolvido no Google Colab para facilitar o acesso e a visualização dos dados. Para reproduzir a análise:
-1. Repositório: Faça o download ou clone este repositório.
-2. Ambiente: Abra o arquivo .ipynb no Google Colab.
-3. Dados (Importante):
-  - Devido ao volume de dados e instabilidades em servidores públicos, a camada Bronze está configurada para ler o arquivo ucmt_pj.csv a partir do Google Drive.
-  - Certifique-se de realizar o upload do dataset para a raiz do seu Google Drive ou ajustar o caminho na célula de "Camada Bronze" para o diretório local do Colab.
-4. Execução: Execute as células sequencialmente para processar as camadas (Bronze, Silver e Gold) e gerar as visualizações.
-  
+
+1.  **Repositório:** Faça o download ou clone este repositório.
+2.  **Ambiente:** Abra o arquivo `.ipynb` no Google Colab.
+3.  **Dados (Importante):**
+    *   Devido ao volume de dados e instabilidades em servidores públicos, a camada Bronze está configurada para ler o arquivo `ucmt_pj.csv` a partir do Google Drive.
+    *   Certifique-se de realizar o upload do dataset para a raiz do seu Google Drive ou ajustar o caminho na célula de "Camada Bronze" para o diretório local do Colab.
+4.  **Execução:** Execute as células sequencialmente para processar as camadas (Bronze, Silver e Gold) e gerar as visualizações.
+
 ---
-**Candidata:** Bruna Oliveira Pedroso de Jesus
-https://www.linkedin.com/in/brunaopdejesus/ | bruna.opdejesus@gmail.com
+**Candidata:** Bruna Oliveira Pedroso de Jesus  
+[LinkedIn](https://www.linkedin.com/in/brunaopdejesus/) | bruna.opdejesus@gmail.com
